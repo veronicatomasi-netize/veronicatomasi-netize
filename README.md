@@ -1,9 +1,12 @@
 # 👋 Olá, eu sou Verônica Prestes Tomasi
 
-🎓 Estudante da Aprendizagem Industrial em programador de sistemas de informação.  
-Estudante da Aprendizagem Industrial em Mecânico Industrial- 13/12/2024.
+🎓 Estudante da Aprendizagem Industrial em programador de sistemas de informação.(SENAI) Contratado pela Empresa Seara Alimentos. 
+
+🎓 Estudante da Aprendizagem Industrial em Mecânico Industrial- 13/12/2024.
+
+🎓 Estudante do 2° ano do ensino médio da escola EEB Cecilia Vivan 2026.
+
 💻 Interessado em tecnologia, programação e inovação.
-contratado pela empresa JBS.
 
 ---
 
